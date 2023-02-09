@@ -1,4 +1,4 @@
-# PtyLab.jl
+# PtyLab
 
 PtyLab is a tooblox to reconstruct [Ptychography datasets](https://en.wikipedia.org/wiki/Ptychography).
 
