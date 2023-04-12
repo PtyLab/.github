@@ -3,7 +3,7 @@
 PtyLab is a tooblox to reconstruct [Ptychography datasets](https://en.wikipedia.org/wiki/Ptychography).
 
 ## Citing
-See this [Optics express arti cle](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-9-13763&id=529026).
+See this [Optics express article](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-9-13763&id=529026).
 ```
 @article{Loetgering:23,
 author = {Lars Loetgering and Mengqi Du and Dirk Boonzajer Flaes and Tomas Aidukas and Felix Wechsler and Daniel S. Penagos Molina and Max Rose and Antonios Pelekanidis and Wilhelm Eschen and J\"{u}rgen Hess and Thomas Wilhein and Rainer Heintzmann and Jan Rothhardt and Stefan Witte},
