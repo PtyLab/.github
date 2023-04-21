@@ -1,6 +1,12 @@
+<img align="right" src="https://avatars.githubusercontent.com/u/119048450?s=200&v=4">
+
 # PtyLab
 
-PtyLab is a toolbox to reconstruct [Ptychography datasets](https://en.wikipedia.org/wiki/Ptychography), with a  [Python implementation](https://github.com/PtyLab/PtyLab.py), a [Julia implementation](https://github.com/PtyLab/PtyLab.py) and a [Matlab implementation](https://github.com/PtyLab/PtyLab.m). 
+
+PtyLab is a toolbox to reconstruct [Ptychography datasets](https://en.wikipedia.org/wiki/Ptychography) available in Python, Julia and Matlab. Head over to the respective repositories to try it out.
+- [Python implementation](https://github.com/PtyLab/PtyLab.py)
+- [Julia implementation](https://github.com/PtyLab/PtyLab.py) 
+- [Matlab implementation](https://github.com/PtyLab/PtyLab.m). 
 
 ## Citing
 See this [Optics express article](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-9-13763&id=529026).
