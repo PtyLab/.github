@@ -1,6 +1,6 @@
 # PtyLab
 
-PtyLab is a tooblox to reconstruct [Ptychography datasets](https://en.wikipedia.org/wiki/Ptychography).
+PtyLab is a toolbox to reconstruct [Ptychography datasets](https://en.wikipedia.org/wiki/Ptychography), with a  [Python implementation](https://github.com/PtyLab/PtyLab.py), a [Julia implementation](https://github.com/PtyLab/PtyLab.py) and a [Matlab implementation](https://github.com/PtyLab/PtyLab.m). 
 
 ## Citing
 See this [Optics express article](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-9-13763&id=529026).
