@@ -5,7 +5,7 @@
 
 PtyLab is a toolbox to reconstruct [Ptychography datasets](https://en.wikipedia.org/wiki/Ptychography) available in Python, Julia and Matlab. Head over to the respective repositories to try it out.
 - [Python implementation](https://github.com/PtyLab/PtyLab.py)
-- [Julia implementation](https://github.com/PtyLab/PtyLab.py) 
+- [Julia implementation](https://github.com/PtyLab/PtyLab.jl) 
 - [Matlab implementation](https://github.com/PtyLab/PtyLab.m). 
 
 ## Citing
